@@ -264,7 +264,7 @@ button:focus,
     height              : 100%;
     background-image    : url(../img/img-profile.JPG);
     background-size     : cover;
-    background-position : center top;
+    background-position : center;
     }
 
 .header .profile-img:before {
