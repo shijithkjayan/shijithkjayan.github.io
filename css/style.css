@@ -569,3 +569,35 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+/*-------------------
+ * Experience details & tool tags
+ *-------------------*/
+.content-item ul {
+    margin      : 12px 0 0;
+    padding-left: 18px;
+    list-style  : disc;
+    }
+
+.content-item ul li {
+    margin-bottom : 6px;
+    line-height   : 1.5;
+    }
+
+.tools-title {
+    margin-top : 30px;
+    }
+
+.tool-tags {
+    margin  : 0;
+    padding : 0;
+    list-style : none;
+    }
+
+.tool-tags li {
+    display       : inline-block;
+    margin        : 0 6px 8px 0;
+    padding       : 4px 12px;
+    border        : 1px solid #dddddd;
+    border-radius : 15px;
+    font-size     : 14px;
+    }
